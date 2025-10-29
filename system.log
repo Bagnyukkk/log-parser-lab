@@ -1,0 +1,9 @@
+2023-10-27T10:00:00Z	-	INFO	-	User logged in successfully
+2023-10-27T10:01:15Z	-	WARNING	-	Disk space is running low
+2023-10-27T10:02:30Z	-	INFO	-	Data processing started
+2023-10-27T10:03:45Z	-	ERROR	-	Failed to connect to database
+2023-10-27T10:05:00Z	-	WARNING	-	API response time is high
+2023-10-27T10:06:15Z	-	FATAL	-	Critical system failure
+2023-10-27T10:07:30Z	-	DEBUG	-	Debugging information
+2023-10-27T10:08:45Z	-	INFO	-	Processing complete
+2023-10-27T10:10:00Z	-	WARNING	-	Cache memory is almost full
